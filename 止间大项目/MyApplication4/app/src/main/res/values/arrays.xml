@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xueyuan">
+        <item>学院</item>
+        <item>软件</item>
+        <item>计算机</item>
+        <item>语传</item>
+        <item>建艺</item>
+        <item>电信</item>
+        <item>交运</item>
+        <item>马克思</item>
+        <item>理学院</item>
+        <item>土建</item>
+        <item>经管</item>
+        <item>电气</item>
+
+
+    </string-array>
+</resources>

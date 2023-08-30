@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">止间</string>
+    <string name="verse">守心一处 止步此间</string>
+    <string name="tv_username">用户:</string>
+    <string name="tv_password">密码:</string>
+    <string name="bt_log">登录</string>
+    <string name="bt_bos">取消</string>
+    <string name="bt_find_password">找回密码</string>
+    <string name="link_password">忘记密码？</string>
+    <string name="link_log">立即注册</string>
+    <string name="et_username">请输入用户名</string>
+    <string name="et_password">请输入密码</string>
+    <string name="et_phone">请输入手机号码</string>
+    <string name="et_password2">请再次输入密码</string>
+    <string name="tv_xueyuan">请输入学院</string>
+    <string name="xueyuan">学院</string>
+    <string name="bt_register">注册</string>
+    <string name="et_verification">验证码</string>
+    <string name="tv_verification">获取验证码</string>
+    <string name="bt_take"> 落座</string>
+    <string name="bt_left"> 离开</string>
+
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="更改密码："
+        android:layout_marginLeft="10dp"
+        android:textSize="25sp"
+        android:clickable="true"
+        android:layout_marginTop="20dp"
+        android:textColor="#171D22"/>
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src = "@drawable/yaoshi"/>
+
+    <EditText
+        android:id="@+id/et_fgpassword"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:hint="输入新密码"
+        android:singleLine="true"
+        />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src = "@drawable/yaoshi"/>
+
+    <EditText
+        android:id="@+id/et_refgpassword"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:hint="再次输入新密码"
+        android:singleLine="true"
+        />
+    </LinearLayout>
+    <Button
+        android:id="@+id/bt_affirm2"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="确认" />
+
+
+</LinearLayout>
