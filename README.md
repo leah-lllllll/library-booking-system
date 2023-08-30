@@ -5,6 +5,6 @@ library seat countdown, seat reservation, seat navgation, and communication with
 
 <img src="https://github.com/leah-lllllll/library-booking-system/blob/master/images/login.jpg" width="210px">
 <img src="https://github.com/leah-lllllll/library-booking-system/blob/master/images/register.jpg" width="210px">
-<img src="https://github.com/leah-lllllll/library-booking-system/blob/master/images/booking.jpg" width="210px">
+<img src="https://github.com/leah-lllllll/library-booking-system/blob/master/images/reservation.jpg" width="210px">
 
 
